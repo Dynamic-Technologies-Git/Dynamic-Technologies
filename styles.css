@@ -348,6 +348,7 @@ html,body
     background: linear-gradient(to right, rgba(128,0,128, 0.6), rgba(0,0,0, 0.2)),
     url('./images/Gaming.webp');
     height: 100vh;
+    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     padding: 0.5rem calc((100vw - 1200px) / 2);
@@ -360,6 +361,7 @@ html,body
     background: linear-gradient(to right, rgba(7, 42, 108, 0.8), rgba(0,0,0, 0.2)),
     url('./images/Hosting.jpg');
     height: 100vh;
+    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     padding: 0.5rem calc((100vw - 1200px) / 2);
@@ -372,6 +374,7 @@ html,body
     background: linear-gradient(to right, rgba(255,76,0,0.5), rgba(0,0,0, 0.2)),
     url('./images/Student Discount.jpg');
     height: 100vh;
+    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     padding: 0.5rem calc((100vw - 1200px) / 2);
