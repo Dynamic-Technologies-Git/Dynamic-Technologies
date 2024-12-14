@@ -859,7 +859,10 @@ html,body
     grid-column: 1/2;
 }
 .Review__holder{
-    width: 90vw;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 100%;
     margin-top: 1rem;
     margin-bottom: 1rem;
