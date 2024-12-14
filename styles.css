@@ -858,7 +858,16 @@ html,body
     grid-row: 4/5;
     grid-column: 1/2;
 }
+.Review__holder{
+    width: 90vw;
+    height: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 @media screen and (max-width: 768px){
+    .Review__holder{
+        width: 100vw;
+    }
     .team__text{
     margin-left: 0rem;
     margin-right: 0rem;
